@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">U4_A_AlejandroBP</string>
+    <string name="editText">Introduce o nome da marca do coche:</string>
+    <string name="engadir_sobrescribir">Engadir/Sobrescribir</string>
+    <string name="engadir">Engadir</string>
+    <string name="sobrescribir">Sobrescribir</string>
+    <string name="act_secundaria">Actividade Secundaria</string>
+</resources>
